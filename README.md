@@ -1,1 +1,2 @@
 # React-list
+The point of this app is to take in only a name and a surname, display them in a list below the form with a button next to them to enable a delete action. The table has a name, surname and action heading respectively for these. The form should give an alert should you enter empty strings.
